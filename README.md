@@ -61,10 +61,10 @@ A centralized and interactive analytics solution was required.
 
 **Screenshots:**
 
-**Dashboard 1 – Loan Overview**
+**Dashboard 1 – Loan Trends & Risk Overview**
 ![Tableau Dashboard Overview](Screenshots/Tableau_Dashboard_1.png)
 
-**Dashboard 2 – Risk & Repayment Analysis**
+**Dashboard 2 – Payment Behavior & Geographic Insights**
 ![Tableau Dashboard Risk Analysis](Screenshots/Tableau_Dashboard_2.png)
 
 📁 `Tableau_Dashboard/`
